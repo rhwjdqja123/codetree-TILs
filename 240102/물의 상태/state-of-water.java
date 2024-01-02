@@ -8,7 +8,7 @@ public class Main {
     if (a<0){
          System.out.println("ice");
     }  
-    else if(a>100){
+    else if(a>=100){
        System.out.println("vapor");  // 여기에 코드를 작성해주세요.
     }
     else{
