@@ -13,9 +13,9 @@ public class Main {
         else if (a==3){
             System.out.println("Paul");
         }
-         else 
+         else {
             System.out.println("Vacancy");
-
+    }
         // 여기에 코드를 작성해주세요.
     }
 }
