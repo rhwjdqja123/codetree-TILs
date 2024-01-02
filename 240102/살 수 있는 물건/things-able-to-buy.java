@@ -11,7 +11,7 @@ public class Main {
     else if(a<3000){
           System.out.println("mask");
     } 
-    else{
+    else if (a<1000){
           System.out.println("no");}// 여기에 코드를 작성해주세요.
     }
 }
