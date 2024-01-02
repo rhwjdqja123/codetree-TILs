@@ -16,7 +16,7 @@ else if (a>=70){
 else if (a>=60){
     System.out.println("D");
 }
-else (a<60){
+else {
     System.out.println("F");
 }
 
