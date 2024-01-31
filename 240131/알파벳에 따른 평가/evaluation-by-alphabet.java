@@ -11,6 +11,7 @@ public class Main {
             System.out.println("Excellent");
              else if (a == 'B') {
             System.out.println("Good");
+             }
         } else if (a == 'C') {
             System.out.println("Usually");
         } else if (a == 'D') {
