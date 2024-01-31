@@ -12,7 +12,7 @@ public class Main {
         }
              else if (a == 'B') {
             System.out.println("Good");
-             }
+             
         } else if (a == 'C') {
             System.out.println("Usually");
         } else if (a == 'D') {
