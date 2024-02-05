@@ -1,10 +1,12 @@
 const fs = require("fs");
 let n =  Number(fs.readFileSync(0).toString().trim());
+let b =  Number(fs.readFileSync(0).toString().trim());
 
 
-console.log(n);
-if (n < 0) {
+let c = n/ (b*b);
+console.log(c);
+if (c > 25) {
    
-  console.log("minus");
+  console.log("Obesity");
    
 }
