@@ -3,7 +3,7 @@ let n =  Number(fs.readFileSync(0).toString().trim());
 
 
 console.log(n);
-if (a < 0) {
+if (n < 0) {
    
   console.log("minus");
    
