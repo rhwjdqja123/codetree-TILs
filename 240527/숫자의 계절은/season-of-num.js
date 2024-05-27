@@ -5,7 +5,7 @@ if (a>2 && a<6){
  console.log("Spring");
 }
 else if (a>5 && a<9) {
-    console.log("Synner");
+    console.log("Summer");
 }
 else if(a>8&&a<12){
     console.log("Fall");
